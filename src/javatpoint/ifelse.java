@@ -1,5 +1,5 @@
 //if else
-package javatpoint;
+package javatest;
 
 public class ifelse 
 { 

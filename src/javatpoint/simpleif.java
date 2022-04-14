@@ -1,5 +1,5 @@
 //Simple if
-package javatpoint;
+package javatest;
 
 public class simpleif 
 {

@@ -1,5 +1,5 @@
 //piramid
-package javatpoint;
+package javatest;
 
 public class piramid
 {

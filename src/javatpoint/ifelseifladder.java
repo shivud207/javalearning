@@ -1,5 +1,5 @@
 //if-else-if ladder
-package javatpoint;
+package javatest;
 
 public class ifelseifladder
 {

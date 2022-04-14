@@ -1,5 +1,5 @@
 //Variable
-package javatpoint;
+package javatest;
 
 public class variable {
 	

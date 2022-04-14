@@ -1,5 +1,5 @@
 //Overflow
-package javatpoint;
+package javatest;
 
 public class overflow {  
 			public static void main(String[] args){  

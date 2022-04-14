@@ -1,5 +1,5 @@
 //Nested loop
-package javatpoint;
+package javatest;
 
 public class Nestedloop
 {

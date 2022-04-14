@@ -1,5 +1,5 @@
 //Widening
-package javatpoint;
+package javatest;
 
 public class widening {
 

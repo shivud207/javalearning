@@ -1,5 +1,5 @@
 //Unary Operator
-package javatpoint;
+package javatest;
 
 public class unaryoperator {
 			public static void main(String args[]){  

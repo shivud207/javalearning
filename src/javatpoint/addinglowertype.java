@@ -1,5 +1,5 @@
 //Adding Lower Type
-package javatpoint;
+package javatest;
 
 public class addinglowertype {
 

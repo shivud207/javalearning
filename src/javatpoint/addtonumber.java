@@ -1,5 +1,5 @@
 //Add TWo Number
-package javatpoint;
+package javatest;
 
 		public class addtonumber{    
 			public static void main(String[] args){    

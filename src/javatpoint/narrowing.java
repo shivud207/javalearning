@@ -1,5 +1,5 @@
 //Narrowing
-package javatpoint;
+package javatest;
 
 public class narrowing { 
 			public static void main(String[] args){  

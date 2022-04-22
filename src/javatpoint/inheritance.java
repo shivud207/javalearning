@@ -19,7 +19,11 @@ class Bird extends Animal
     {
         System.out.println("I am singing");
     }
-   
+
+	void walk()
+	{
+		System.out.println("I am walking1");
+	}
 }
 
 public class inheritance {
@@ -27,9 +31,11 @@ public class inheritance {
 	public static void main(String args[])
 	   {
 		  Bird bird = new Bird();
+		  Animal animal = new Animal();
 		  bird.walk();
 		  bird.fly();
 	      bird.sing();
+	      animal.walk();
 		
 	   }
 }

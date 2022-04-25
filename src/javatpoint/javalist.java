@@ -12,13 +12,13 @@ public class javalist
 		        Scanner scn = new Scanner(System.in);
 		        int n = scn.nextInt();
 		        ArrayList<Integer> al = new ArrayList<>();
-		        for(int i=0;i<=n;i++)
+		        for(int i=0;i<=5;i++)
 		        {
 		            int ele = scn.nextInt();
 		            al.add(ele);
 		        }
 		        int q = scn.nextInt();
-		        for (int i=0;i<q;i++)
+		        for (int i=0;i<5;i++)
 		        {
 		            String query = scn.next();
 		            if(query.equals("Insert")){
@@ -38,6 +38,6 @@ public class javalist
 		    }
 		}
 
-	}
+	
 
-}
+

@@ -2,7 +2,7 @@ package javatest;
 
 
 
-class Animal1
+class animal1
 {
 	void walk()
 	{
@@ -10,7 +10,7 @@ class Animal1
 	}
 }
 
-class Bird1 extends Animal1
+class bird1 extends animal1
 {
 	void fly()
 	{
@@ -24,10 +24,10 @@ class Bird1 extends Animal1
 
 	public static void main(String args[])
 	   {
-		  Bird1 bird = new Bird1();
-		  bird.walk();
-		  bird.fly();
-	      bird.sing();
+		  bird1 b = new bird1();
+		  b.walk();
+		  b.fly();
+	      b.sing();
 		
 	   }
    

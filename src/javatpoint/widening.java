@@ -1,7 +1,7 @@
 //Widening
 package javatest;
 
-public class widening {
+public class Widening {
 
 			public static void main(String[] args){  
 			int a=10;  
